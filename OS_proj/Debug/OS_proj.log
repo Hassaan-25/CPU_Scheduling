@@ -1,0 +1,4 @@
+﻿  OS_proj.cpp
+C:\Users\hassa\source\repos\OS_proj\OS_proj\OS_proj.cpp(193,75): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\hassa\source\repos\OS_proj\OS_proj\OS_proj.cpp(328,21): warning C4101: 'pj': unreferenced local variable
+  OS_proj.vcxproj -> C:\Users\hassa\source\repos\OS_proj\Debug\OS_proj.exe
